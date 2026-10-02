@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+plotly
+python-dotenv
+google-genai
+pydantic
+requests
